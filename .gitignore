@@ -1,0 +1,9 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+
+.vault_key
+.vault_key*
+
+medviet-governance/data/raw/*
+!medviet-governance/data/raw/.gitkeep

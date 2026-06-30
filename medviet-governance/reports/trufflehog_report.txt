@@ -1,0 +1,5 @@
+TruffleHog scan was not executed in this environment because the `trufflehog`
+command is not installed or not available in PATH.
+
+Expected command:
+trufflehog git file://. --only-verified
